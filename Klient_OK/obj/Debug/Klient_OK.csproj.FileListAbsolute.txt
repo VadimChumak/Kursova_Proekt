@@ -1,0 +1,129 @@
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\bin\Debug\Klient_OK.exe.config
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\bin\Debug\Klient_OK.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\bin\Debug\Klient_OK.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\MainWindow.baml
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\MainWindow.g.cs
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\App.g.cs
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\Klient_OK_MarkupCompile.cache
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\Klient_OK.g.resources
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\Klient_OK.Properties.Resources.resources
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\Klient_OK.csproj.GenerateResource.Cache
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\Klient_OK.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\Klient_OK.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\SettingVindow.baml
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\SettingVindow.g.cs
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\Наброски\Klient_OK\obj\Debug\Klient_OK.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Klient_OK.exe.config
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Klient_OK.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Klient_OK.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\MainWindow.baml
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\SettingVindow.baml
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\MainWindow.g.cs
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\SettingVindow.g.cs
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\App.g.cs
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK_MarkupCompile.cache
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.g.resources
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.Properties.Resources.resources
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.csproj.GenerateResource.Cache
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Klient_OK.exe.config
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Klient_OK.exe
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Klient_OK.pdb
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\MainWindow.baml
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\SettingVindow.baml
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\MainWindow.g.cs
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\SettingVindow.g.cs
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\App.g.cs
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK_MarkupCompile.cache
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.g.resources
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.Properties.Resources.resources
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.csproj.GenerateResource.Cache
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.exe
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.pdb
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\Klient_OK\obj\Debug\Klient_OK.csprojResolveAssemblyReference.cache

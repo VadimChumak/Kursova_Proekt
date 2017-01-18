@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_Console", "Server_Console\Server_Console.csproj", "{A0C8CE85-223D-4F89-AE1B-7325C24E0732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerWPF", "ServerWPF\ServerWPF.csproj", "{9203606B-0DAD-4B3C-AE68-CEE51544F848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klient_OK", "Klient_OK\Klient_OK.csproj", "{F6A026A8-EF55-43FA-9345-5525B1CDE5C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0C8CE85-223D-4F89-AE1B-7325C24E0732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C8CE85-223D-4F89-AE1B-7325C24E0732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C8CE85-223D-4F89-AE1B-7325C24E0732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C8CE85-223D-4F89-AE1B-7325C24E0732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9203606B-0DAD-4B3C-AE68-CEE51544F848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9203606B-0DAD-4B3C-AE68-CEE51544F848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9203606B-0DAD-4B3C-AE68-CEE51544F848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9203606B-0DAD-4B3C-AE68-CEE51544F848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A026A8-EF55-43FA-9345-5525B1CDE5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A026A8-EF55-43FA-9345-5525B1CDE5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A026A8-EF55-43FA-9345-5525B1CDE5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A026A8-EF55-43FA-9345-5525B1CDE5C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

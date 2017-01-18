@@ -1,0 +1,15 @@
+﻿<Window x:Class="ServerWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Сервер(Курсова Робота)" Height="421.015" Width="581.612" Closed="Window_Closed" Background="White">
+    <Grid>
+
+        <Button x:Name="StartAccepting" Content="Server ON" HorizontalAlignment="Center" Margin="499,0,22,361" VerticalAlignment="Bottom" Width="53" Height="23" Click="StartAccepting_Click" Background="Black" Foreground="White" FontFamily="Arial Narrow" FontSize="10" BorderThickness="0" BorderBrush="Black"/>
+        <TextBlock x:Name="ServerConsition"  HorizontalAlignment="Left" Margin="214,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157" FontFamily="Arial Narrow" FontSize="10" TextDecorations="{x:Null}" TextAlignment="Center" LineHeight="40" Foreground="#FF007A10" Height="23"/>
+        <ListBox x:Name="ActiveUsers" HorizontalAlignment="Left" BorderThickness="1" Height="315" Margin="10,38,0,0" VerticalAlignment="Top" Width="131" Background="#FF99BB81" BorderBrush="Black" SelectionChanged="ActiveUsers_SelectionChanged" Foreground="White"/>
+        <TextBox x:Name="UserSession" HorizontalAlignment="Left" VerticalScrollBarVisibility="Auto" BorderThickness="1" Height="315" Margin="146,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" BorderBrush="Black" Width="406"/>
+        <TextBox x:Name="PasswordDec" HorizontalAlignment="Left" BorderThickness="1" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" BorderBrush="Black"/>
+        <TextBlock HorizontalAlignment="Left" Margin="146,10,0,0" TextWrapping="Wrap" Text="Пароль" VerticalAlignment="Top" Height="23" Width="68"  FontFamily="Segoe Marker" FontSize="16"/>
+
+    </Grid>
+</Window>

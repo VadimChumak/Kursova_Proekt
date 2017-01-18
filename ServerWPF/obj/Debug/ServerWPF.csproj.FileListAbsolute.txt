@@ -1,0 +1,39 @@
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\obj\Debug\MainWindow.baml
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\obj\Debug\App.g.cs
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\vadim\documents\visual studio 2013\Projects\KR_OK\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\MainWindow.baml
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\App.g.cs
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\bin\Debug\ServerWPF.exe.config
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.exe
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.pdb
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\bin\Debug\ServerWPF.exe
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\bin\Debug\ServerWPF.pdb
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\MainWindow.baml
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\App.g.cs
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.g.resources
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+C:\Users\vadim\Desktop\Програмування\Курсова_Шифрування_Данних — копия\KR_OK\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
